@@ -1,0 +1,18 @@
+Página en HTML 5
+Subtítulo de la página
+Enlace 1 Enlace 2 Enlace 3 Enlace 4
+Parte principal de la página: Título
+Subtítulo de la parte principal.
+Artículo primero
+La Plaza Mayor es el centro de la vida de la ciudad de Lugo. Se encuentra en el espacio medieval donde se celebraba el mercado durante el siglo XVI; posteriormente se construyeron nuevas edificaciones y se amplió la plaza.
+Artículo segundo
+La muralla romana de Lugo rodea el casco histórico de la ciudad gallega de Lugo en la provincia del mismo nombre en España. La antigua ciudad romana de Lucus Augusti, fundada por Paulo Fabio Máximo en nombre del emperador Augusto en el año 13 a. C. con la finalidad de anexionar, definitivamente, el noroeste de la península Ibérica al Imperio romano fue dotada en el Bajo Imperio de un muro de defensa que ha perdurado, con escasas reformas, hasta la actualidad.
+La muralla, con una longitud de 2266 metros, coronada por 85 poderosas torres, delimita el casco histórico de la urbe gallega y ha pasado de ser un obstáculo para su evolución y crecimiento a ser un monumento integrado en la estructura urbana y fuente de riqueza turística.
+Artículo tercero
+O Cebreiro es una parroquia del municipio de Piedrafita do Cebreiro, en la provincia de Lugo en Galicia. Pertenece a la comarca de Los Ancares Lucenses. En ella se sitúa la aldea de idéntico nombre, a 1330 msnm de altitud, y que es el primer pueblo gallego del Camino de Santiago Francés. En su arquitectura destacan las pallozas y la iglesia de Santa María (prerrománica, del siglo IX), que custodia un cáliz románico, datado en el siglo XII).
+Espacio reservado para publicidad
+Anúnciate aquí
+Da a conocer tu empresa o negocio en Internet anunciándote en este espacio.
+Interesados llamar al telefono 000_000_000 ó contactar en xyz@xyzmail.com
+Página extraída del manual de HTML5 por Anyelguti
+Contacta con Anyelguti: email aprendeweb@ymail.com
